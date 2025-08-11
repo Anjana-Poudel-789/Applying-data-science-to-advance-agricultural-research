@@ -1,6 +1,6 @@
 # Potato Dormancy Breaking Treatments Analysis
 
-This repository contains code and results from an analysis of different chemical treatments for breaking potato dormancy. The study compares the effectiveness of Water (control), Gibberellic Acid (GA3), Thiourea, and Indole Acetic Acid (IAA) in promoting potato tuber sprouting.
+This repository contains code and results from an analysis of different chemical treatments for breaking potato dormancy. The study compares the effectiveness of Water (control), Gibberellic Acid (GA3), Thiourea, and Indole Acetic Acid (IAA) in promoting potato tubesr sprouting.
 
 ## Research Background
 
