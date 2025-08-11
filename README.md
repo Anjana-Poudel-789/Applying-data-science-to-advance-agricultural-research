@@ -44,17 +44,19 @@ The generated figure contains four panels:
 
 Significance letters (a, b) indicate visual differences between treatments, with different letters representing potentially meaningful differences.
 
-## Contact
-Anjana Poudel
-poudelanjana2057@gmail.com
-Agriculture and Forestry University,Nepal
-
-#requirements.txt
+# requirements.txt
 pandas
 matplotlib
 numpy
 scipy
 seaborn
+
+## Contact
+Anjana Poudel
+poudelanjana2057@gmail.com
+Agriculture and Forestry University,Nepal
+
+
 
 # Methods for Potato Dormancy Breaking Analysis
 
